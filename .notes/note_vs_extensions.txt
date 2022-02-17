@@ -1,0 +1,9 @@
+# https://code.visualstudio.com/docs/editor/command-line
+
+# install extension
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension bierner.color-info
+
+# uninstall extensions
+code --uninstall-extension esbenp.prettier-vscode
