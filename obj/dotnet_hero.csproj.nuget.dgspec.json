@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet_hero.csproj": {}
+    "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet6_hero/dotnet_hero.csproj": {}
   },
   "projects": {
-    "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet_hero.csproj": {
+    "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet6_hero/dotnet_hero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet_hero.csproj",
+        "projectUniqueName": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet6_hero/dotnet_hero.csproj",
         "projectName": "dotnet_hero",
-        "projectPath": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet_hero.csproj",
+        "projectPath": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet6_hero/dotnet_hero.csproj",
         "packagesPath": "/Users/chaiyasittayabovorn/.nuget/packages/",
-        "outputPath": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/obj/",
+        "outputPath": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet6_hero/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chaiyasittayabovorn/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ubHDx+qDml8I5IQ4iOqPtqGiRdmYvftdc10Yu1R4ihY3JduIJJ6nRFuj9C7PrJNKO4qqLB/pMEFRHmYF0j8rw==",
+  "dgSpecHash": "HN70SYuE1PuAryE56EB8dfyAfu4a0TtfxxCxTX62AwoO3/qZSXk5Stj2x3SuUWD+wQTtHEjmYTpL7N4WM3I5uw==",
   "success": true,
-  "projectFilePath": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet_hero.csproj",
+  "projectFilePath": "/Users/chaiyasittayabovorn/Desktop/Training/DotNetCore_Angular/workshops/dotnet_hero/dotnet6_hero/dotnet_hero.csproj",
   "expectedPackageFiles": [
     "/Users/chaiyasittayabovorn/.nuget/packages/autofac/6.3.0/autofac.6.3.0.nupkg.sha512",
     "/Users/chaiyasittayabovorn/.nuget/packages/autofac.extensions.dependencyinjection/7.2.0/autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
