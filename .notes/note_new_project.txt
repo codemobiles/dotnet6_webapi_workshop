@@ -1,6 +1,7 @@
 install dotcore sdk : https://dotnet.microsoft.com/en-us/download
-- install vscode extensions;
-  
+install vscode
+- enable shell cmd for vscode on macos
+- install vscode extensions;  
   code --install-extension vscode-icons-team.vscode-icons
   code --install-extension esbenp.prettier-vscode
   code --install-extension ms-dotnettools.csharp
@@ -8,7 +9,7 @@ install dotcore sdk : https://dotnet.microsoft.com/en-us/download
   code --install-extension eamodio.gitlens
   code --install-extension esbenp.prettier-vscode
   code --install-extension bierner.color-info
-  
+
 - cmd + shfit + p => dotnet
 - Enter sdk command
 - Enter new and select project folder
